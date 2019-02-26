@@ -1,2 +1,1 @@
 This is my sample text file
---Removed extra line
